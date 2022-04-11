@@ -1,7 +1,7 @@
 
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="com.ahmed.virtualcube.schoolproject">
+	package="com.virtualcube">
 	<uses-permission android:name="android.permission.ACCESS_CACHE_FILESYSTEM" />
 	<application
 		android:allowBackup="true"
@@ -42,4 +42,4 @@
 			android:name="org.apache.http.legacy"
 			android:required="false" />
 	</application>
-</manifest>
+</manifest>
